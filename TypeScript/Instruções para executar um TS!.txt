@@ -1,0 +1,8 @@
+Instruções para executar um TS!
+
+No terminal execute os seguintes comandos na ordem:
+
+1 - npm install -g typescript
+2 - npm install -g tsc
+3 - Para executar o arquivo feche os seus terminais e abra novamente. Certifique-se de estar na mesma pasta que o arquivo e execute o comando tsc ./nomedoarquivo.ts
+4 - Ele vai gerar um .js que vai ser executado normalmente.
